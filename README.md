@@ -9,7 +9,7 @@ a service called Firebase Firestore as a backend database to store and retrieve 
 * stored data in the cloud using Firebase Firestore.
 * Firebase for user authentication, registration and login.
 
-##Screenshots
+## Screenshots
 
 
 <a href="url"><img src="https://github.com/hazemabollfadl/Flash-Chat/assets/79457581/fd861d0f-7785-4603-85fa-df2e246257db" align="left" height="500" width="250" ></a>
